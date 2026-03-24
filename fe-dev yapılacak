@@ -10,3 +10,4 @@ Dashboard (Gösterge Paneli) Ekranı: Risk durumlarının ve genel portföyün l
 Görsel Geribildirimler: İş kurallarına göre renk kodlamalarının arayüze yansıtılması (Örn: Yüksek Risk için arka planın kırmızı olması, Acil Uyarı için turuncu rozetler kullanılması).
 
 Uyarı/Hata Mesajları: Hatalı veya eksik veri girişlerinde kullanıcıyı yönlendirecek pop-up (MessageBox) pencerelerinin tasarlanması.
+   
